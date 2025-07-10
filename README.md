@@ -41,7 +41,7 @@
 
 ###
 
-<h4 align="center">I'm Chathrian R from Trichy, Tamil Nadu<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning Laravel<br>- ⚡ In my free time I play Cricket</h4>
+<h4 align="center">I'm Chathrian R from Trichy, Tamil Nadu<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning Laravel<br>- ⚡ In my free time I play Chess</h4>
 
 ###
 
