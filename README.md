@@ -119,8 +119,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Chathrian/count.svg?"  />
-</div>
-
 ###
